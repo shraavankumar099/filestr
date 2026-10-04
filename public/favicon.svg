@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FileShelf">
+  <rect width="32" height="32" rx="7" fill="#1d4ed8" />
+  <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M8.5 10.5h6" />
+    <path d="M8.5 16h4" />
+    <path d="M8.5 21.5h6" />
+    <path d="M18 8v16" />
+    <path d="M18 11.5h4.5" />
+    <path d="M18 16h4.5" />
+    <path d="M18 20.5h4.5" />
+  </g>
+</svg>

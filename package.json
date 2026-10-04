@@ -1,0 +1,25 @@
+{
+  "name": "fileshelf",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FileShelf — a frontend-only file library. Files live in public/files/, the catalogue lives in src/data/files.json, and the admin panel packages new files for you to commit.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.52.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.2"
+  }
+}

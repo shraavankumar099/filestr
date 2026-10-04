@@ -1,0 +1,112 @@
+[
+  {
+    "id": "dsa-notes",
+    "title": "Data Structures & Algorithms — Revision Notes",
+    "filename": "dsa-notes.pdf",
+    "description": "Condensed revision notes covering arrays, linked lists, stacks, queues, hash tables, trees and graphs with complexity tables and interview-focused patterns.",
+    "category": "Notes",
+    "fileType": "pdf",
+    "size": 6662,
+    "url": "/files/dsa-notes.pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "DATA_SCIENCE_LAB",
+    "title": "DATA SCIENCE LAB — Revision Notes",
+    "filename": "DATA SCIENCE LAB.docx",
+    "description": ".",
+    "category": "Notes",
+    "fileType": "pdf",
+    "size": 6662,
+    "url": "/files/DATA SCIENCE LAB.docx",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "cloud-computing",
+    "title": "Cloud Computing Fundamentals",
+    "filename": "cloud-computing.pptx",
+    "description": "A nine-slide primer on cloud computing: IaaS/PaaS/SaaS, deployment models, virtualisation, containers, serverless, cost models and a provider comparison.",
+    "category": "Presentations",
+    "fileType": "pptx",
+    "size": 41343,
+    "url": "/files/cloud-computing.pptx",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "machine-learning-basics",
+    "title": "Machine Learning Basics",
+    "filename": "machine-learning-basics.pptx",
+    "description": "Eight-slide introduction to machine learning: problem framing, supervised vs unsupervised learning, the training workflow, evaluation metrics, overfitting and deployment concerns.",
+    "category": "Presentations",
+    "fileType": "pptx",
+    "size": 39768,
+    "url": "/files/machine-learning-basics.pptx",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "project-source",
+    "title": "Sample Project Source Package",
+    "filename": "project-source.zip",
+    "description": "A small Express task-API project archive (source, tests and README) included as a downloadable ZIP example.",
+    "category": "Archives",
+    "fileType": "zip",
+    "size": 2301,
+    "url": "/files/project-source.zip",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "react-18-cheatsheet",
+    "title": "React 18 Cheatsheet",
+    "filename": "react-18-cheatsheet.pdf",
+    "description": "A two-page printable reference for React 18: core hooks, rules of hooks, state update patterns, effects, memoisation and common pitfalls.",
+    "category": "Reference",
+    "fileType": "pdf",
+    "size": 4594,
+    "url": "/files/react-18-cheatsheet.pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "sql-query-reference",
+    "title": "SQL Query Reference",
+    "filename": "sql-query-reference.pdf",
+    "description": "Reference sheet of practical SQL: query execution order, join types, aggregation, subqueries, window functions, indexes and safe update habits.",
+    "category": "Reference",
+    "fileType": "pdf",
+    "size": 5331,
+    "url": "/files/sql-query-reference.pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "git-workflow-guide",
+    "title": "Git & GitHub Workflow Guide",
+    "filename": "git-workflow-guide.pdf",
+    "description": "Practical Git guide: trunk-based branching, conventional commits, pull-request checklist, conflict resolution and undo commands for everyday mistakes.",
+    "category": "Guides",
+    "fileType": "pdf",
+    "size": 5192,
+    "url": "/files/git-workflow-guide.pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "ui-design-checklist",
+    "title": "UI & UX Design Checklist",
+    "filename": "ui-design-checklist.pdf",
+    "description": "Design QA checklist covering visual hierarchy, spacing scale, typography, colour contrast, interaction states, empty/error states, responsive behaviour and accessibility.",
+    "category": "Design",
+    "fileType": "pdf",
+    "size": 4910,
+    "url": "/files/ui-design-checklist.pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
+    "id": "internship-report-template",
+    "title": "Internship Report Template",
+    "filename": "internship-report-template.docx",
+    "description": "Editable Word template for an internship or industrial-training report, with sections, placeholders and formatting guidance.",
+    "category": "Templates",
+    "fileType": "docx",
+    "size": 37437,
+    "url": "/files/internship-report-template.docx",
+    "addedAt": "2026-10-04"
+  }
+]
