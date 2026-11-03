@@ -22,6 +22,17 @@
     "addedAt": "2026-10-04"
   },
   {
+  "id": "DATA_SCIENCE_LAB",
+    "title": "DS_LAB",
+    "filename": "DS_LAB (1).pdf ",
+    "description": ".",
+    "category": "Notes",
+    "fileType": "pdf",
+    "size": 6662,
+    "url": "/files/DS_LAB (1).pdf",
+    "addedAt": "2026-10-04"
+  },
+  {
     "id": "cloud-computing",
     "title": "Cloud Computing Fundamentals",
     "filename": "cloud-computing.pptx",
